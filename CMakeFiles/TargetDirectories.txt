@@ -1,0 +1,3 @@
+/home/pi/Desktop/HockeyC/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/HockeyC/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/HockeyC/CMakeFiles/ReadVideo.dir
