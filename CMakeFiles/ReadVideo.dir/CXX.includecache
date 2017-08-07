@@ -11,6 +11,12 @@ opencv2/opencv.hpp
 /home/pi/Desktop/HockeyC/opencv2/opencv.hpp
 highgui.h
 /home/pi/Desktop/HockeyC/highgui.h
+sys/time.h
+/home/pi/Desktop/HockeyC/sys/time.h
+stdio.h
+/home/pi/Desktop/HockeyC/stdio.h
+iostream
+/home/pi/Desktop/HockeyC/iostream
 
 /usr/local/include/opencv/highgui.h
 opencv2/core/core_c.h
